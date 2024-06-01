@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Practicar-Hackathon" uuid="a1604a7f-283f-480c-93f8-505073acefe0">
+    <data-source source="LOCAL" name="Hackathon_Recu" uuid="b0693771-a866-4253-9cc2-a38cbff8a834">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/Practicar-Hackathon</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/Hackathon_Recu</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
